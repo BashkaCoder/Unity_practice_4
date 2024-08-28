@@ -6,7 +6,7 @@
 Нужно чтобы работал со всеми тремя типами коллекций. Метод LogCollection может быть только один.
 
 ## Выполнение:
-- [LoggerWrapper.cs](https://github.com/BashkaCoder/Unity_practice_3/blob/Task1_3_1/Assets/LoggerWrapper.cs)
+- [Main.cs](https://github.com/BashkaCoder/Unity_practice_4/blob/main/Main.cs)
 
 ## Итог:
 Таска была выполнена. 
