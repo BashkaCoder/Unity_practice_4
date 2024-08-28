@@ -1,0 +1,15 @@
+D:\Work\Projects\C#\LINQ_0\LINQ_0\bin\Debug\net8.0\LINQ_0.exe
+D:\Work\Projects\C#\LINQ_0\LINQ_0\bin\Debug\net8.0\LINQ_0.deps.json
+D:\Work\Projects\C#\LINQ_0\LINQ_0\bin\Debug\net8.0\LINQ_0.runtimeconfig.json
+D:\Work\Projects\C#\LINQ_0\LINQ_0\bin\Debug\net8.0\LINQ_0.dll
+D:\Work\Projects\C#\LINQ_0\LINQ_0\bin\Debug\net8.0\LINQ_0.pdb
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.AssemblyInfo.cs
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.sourcelink.json
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.dll
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\refint\LINQ_0.dll
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.pdb
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\LINQ_0.genruntimeconfig.cache
+D:\Work\Projects\C#\LINQ_0\LINQ_0\obj\Debug\net8.0\ref\LINQ_0.dll
