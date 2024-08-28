@@ -14,8 +14,8 @@ class Program
         #region BiggerThanTen //Выбрать все числа, которые больше 10 || Операторы запросов
         {
             var biggerThanTen = from n in array
-                                              where n > 10
-                                              select n;
+                                where n > 10
+                                select n;
             Print(biggerThanTen);
         } 
         #endregion
@@ -44,8 +44,8 @@ class Program
         #region combinedList //Объединить все предыдущие проверки(регионы) в один список. || Методы расширений и операторы запросов
         {
             var biggerThanTen = from n in array
-                                              where n > 10
-                                              select n;
+                                where n > 10
+                                select n;
             var divisibleBy5 = array.Where(n => n % 5 == 0);
             
             //Так как biggerThanTen более ограничивающее, чем anyPositive и allPositive - можем ими принебречь
